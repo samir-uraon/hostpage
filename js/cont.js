@@ -34,3 +34,4 @@ setTimeout(() => {
 document.querySelector("#main2").addEventListener("click",()=>{
   window.open("https://maps.app.goo.gl/DaVa4cPjxjAogUwp6")
  })
+
