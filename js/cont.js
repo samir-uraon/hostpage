@@ -31,3 +31,6 @@ setTimeout(() => {
   document.querySelector(".content").style.transform="scale(1) translateY(0px)"
   
 },11000);
+document.querySelector("#main2").addEventListener("click",()=>{
+  window.open("https://maps.app.goo.gl/DaVa4cPjxjAogUwp6")
+ })
